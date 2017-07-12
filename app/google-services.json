@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "47713589424",
+    "firebase_url": "https://simplemail-b86a3.firebaseio.com",
+    "project_id": "simplemail-b86a3",
+    "storage_bucket": "simplemail-b86a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47713589424:android:ee881b30d2b0916b",
+        "android_client_info": {
+          "package_name": "com.example.hd.mail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47713589424-1og1jcn8ekst0pe0fd73g1213p6t8ugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKC6CnZj2JeEz2Ew1ryA8PVHRvPkNkX6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
